@@ -32,3 +32,8 @@
   <li>Tener instalado <b>Forge</b></li>
   <li>Tener instalados los Mods obligatorios.</li>
 </ul>
+
+
+# Updates
+
+Update 1: Mods actualizados
